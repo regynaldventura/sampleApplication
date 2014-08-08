@@ -1,0 +1,11 @@
+{
+  "name": "sampleApplication",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node sampleMain.js"
+    },
+    "description": "sample",
+
+    "dependencies": {},
+    "private": true,
+  }
